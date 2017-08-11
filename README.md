@@ -1,5 +1,7 @@
 # PHP version information page (codename 'servehappy')
 
+[![Edit in GitHub](https://img.shields.io/badge/Edit_in_GitHub--green.svg?style=social)](https://github.com/wp-core-php/servehappy/edit/master/README.md)
+
 **Information page about PHP versions and updates, to be used through the WordPress.org project.**
 
 > Note: `servehappy` is only a temporary codename for now.
