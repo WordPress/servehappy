@@ -15,3 +15,9 @@ We are currently in the process of collecting benefits and statistical data that
 These are collected as issues in the [issue tracker](https://github.com/wp-core-php/servehappy/issues) and managed in the [ Benefits & Stats project board](https://github.com/wp-core-php/servehappy/projects/1).
 
 If you want to suggest a new benefit or stat, please [create a new issue](https://github.com/wp-core-php/servehappy/issues/new) and label it accordingly.
+
+## Further Reading
+
+* [Slack Channel](https://wordpress.slack.com/messages/core-php/)
+* [Trac ticket](https://meta.trac.wordpress.org/ticket/2996)
+* [Weekly updates](https://make.wordpress.org/core/tag/core-php/)
