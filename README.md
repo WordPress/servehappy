@@ -2,7 +2,7 @@
 
 **Information page about PHP versions and updates, to be used through the WordPress.org project.**
 
-> Note: `serveHappy` is only a temporary codename for now.
+> Note: `servehappy` is only a temporary codename for now.
 
 This is the main repository for working on the `servehappy` page(s). It is used to collect the discussions in the issue tracker and work on the page content.
 
