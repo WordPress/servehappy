@@ -1,4 +1,4 @@
-# PHP version information page (codename 'servehappy')
+# PHP Version Information Page (codename `servehappy`)
 
 [![Edit in GitHub](https://img.shields.io/badge/Edit_in_GitHub--green.svg?style=social)](https://github.com/wp-core-php/servehappy/edit/master/README.md)
 
