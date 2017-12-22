@@ -1,6 +1,6 @@
 # Integrating the Servehappy Page with WordPress Core
 
-[![Edit in GitHub](https://img.shields.io/badge/Edit_in_GitHub--green.svg?style=social)](https://github.com/WordPress/servehappy/edit/master/CORE-INTEGRATIONS.md)
+[![Edit in GitHub](https://img.shields.io/badge/Edit_in_GitHub--green.svg?style=social)](https://github.com/WordPress/servehappy/edit/core-integrations/CORE-INTEGRATIONS.md)
 
 ## Integration Points
 
