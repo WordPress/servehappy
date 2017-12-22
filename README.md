@@ -8,6 +8,8 @@
 
 This is the main repository for working on the `servehappy` page(s). It is used to collect the discussions in the issue tracker and work on the page content.
 
+[Current Draft](https://github.com/WordPress/servehappy/blob/master/DRAFT.md)
+
 ## Collecting Benefits & Stats
 
 We are currently in the process of collecting benefits and statistical data that help us sell the "update PHP" proposition to users.
