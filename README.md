@@ -31,7 +31,7 @@ We will endeavour to keep this document up to date, but for all the most recent 
 
 ## Big picture overview
 
-The following table gives a high level overview of all the various somponents contributing to the servehappy initiative.
+The following table gives a high level overview of all the various components contributing to the servehappy initiative.
 
 > Note: all delivery dates are _rough_ estimates only.
 
