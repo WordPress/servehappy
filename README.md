@@ -57,7 +57,7 @@ See [the servehappy resources repository](https://github.com/WordPress/servehapp
 
 ### Information page about PHP versions and updates.
 
-This page will live on WordPress.org and is intended to be referenced throughout the WordPress.org project and eventually linked to from the WordPress dashboard for sites not meeting a minimum PHP version requirement.
+This page will live on WordPress.org and is intended to be referenced throughout the WordPress.org project and eventually linked to from the WordPress dashboard for sites not meeting a minimum PHP version requirement for the notice to appear.
 
 * [Current Draft](https://github.com/WordPress/servehappy/blob/master/DRAFT.md)
 * https://meta.trac.wordpress.org/ticket/2996
