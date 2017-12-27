@@ -5,7 +5,7 @@ The servehappy project is an initiative that seeks to educate WordPress site own
 
 ## Background
 
-One of the core tenets of WordPress has been that of being backward compatible and the support of PHP 5.2 is and has been part and parcel of that tenet.  Over the years however, there has been increasing tension within the WordPress developer community on this support for PHP 5.2 between those who support keeping the minimum PHP version requirements the same for WordPress core, and those who want to increase the minimum PHP version requirements for WordPress core.  There have been numerous arguments made for either side and you can follow some of the discussion [here](https://core.trac.wordpress.org/ticket/33381).
+One of the core tenets of WordPress backwards compatibility. Support for PHP 5.2 is and has been part and parcel of that tenet.  Over the years however, there has been increasing tension within the WordPress developer community on this support for PHP 5.2 between those who support keeping the minimum PHP version requirements the same for WordPress core, and those who want to increase the minimum PHP version requirements for WordPress core.  There have been numerous arguments made for either side and you can follow some of the discussion [here](https://core.trac.wordpress.org/ticket/33381).
 
 Beginning around mid 2017, there were a number of discussions initiated (in various channels) about resolving some of this tension and keeping WordPress as a project moving forward with PHP language related topics. Out of these discussions, a number of initiatives were started that support the overall _initial_  goals of:
 
