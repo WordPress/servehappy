@@ -5,18 +5,18 @@ The servehappy project is an initiative that seeks to educate WordPress site own
 
 ## Background
 
-One of the core tenets of WordPress has been that of being backward compatible and the support of PHP 5.2 is and has been part and parcel of that tenet.  Over the years however, there has been increasing tension within the WordPress developer community on this support for PHP5.2 between those who support keeping the minimum PHP version requirements the same for WordPress core, and those who want to increase the minimum PHP version requirements for WordPress core.  There have been numerous arguments made for either side and you can follow some of the discussion [here](https://core.trac.wordpress.org/ticket/33381).
+One of the core tenets of WordPress has been that of being backward compatible and the support of PHP 5.2 is and has been part and parcel of that tenet.  Over the years however, there has been increasing tension within the WordPress developer community on this support for PHP 5.2 between those who support keeping the minimum PHP version requirements the same for WordPress core, and those who want to increase the minimum PHP version requirements for WordPress core.  There have been numerous arguments made for either side and you can follow some of the discussion [here](https://core.trac.wordpress.org/ticket/33381).
 
 Beginning around mid 2017, there were a number of discussions initiated (in various channels) about resolving some of this tension and keeping WordPress as a project moving forward with PHP language related topics. Out of these discussions, a number of initiatives were started that support the overall _initial_  goals of:
 
-- encouraging Web host providers to provide the latest PHP versions and provide an upgrade path for their customers to get on the latest versions (this is something that has been happening for a while now)
-- educating site owners about PHP and why PHP version matters.
-- decreasing the amount of reported WordPress sites running older EOL versions of PHP.
+- Encouraging Web host providers to provide the latest PHP versions and provide an upgrade path for their customers to get on the latest versions (this is something that has been happening for a while now)
+- Educating site owners about PHP and why PHP version matters.
+- Decreasing the amount of reported WordPress sites running older [EOL (End Of Life)](https://en.wikipedia.org/wiki/End-of-life_(product)) versions of [PHP](http://php.net/supported-versions.php).
 
 Once these goals have been reached, then it becomes possible to more practically begin discussions about:
 
-- increasing the minimum PHP requirements of WordPress
-- introducing more modern PHP practices/design patterns etc that require later PHP versions in WordPress php code design and structure.
+- Increasing the minimum PHP requirements of WordPress
+- Introducing more modern PHP practices/design patterns etc that require later PHP versions in WordPress php code design and structure.
 
 For clarity, its worth re-iterating here, that the immediate goal of the latest PHP initiatives (of which the _servehappy_ project is a part) is **not** to raise the minimum _requirements_ for PHP in WordPress core. The immediate goal is to put in place supporting structure and site owner education/resources etc so that we can more actively reduce the number of existing active WordPress sites on older PHP EOL versions.
 
@@ -76,7 +76,7 @@ The proposal is to allow plugins and themes to have a minimum PHP version requir
 
 While not directly related to the servehappy initiative, the [Tide Project](https://make.wordpress.org/tide/) will indirectly support the various efforts in process.  It will particularly help with prividing feedback to users about what plugins/themes they have in use on their site that might not be compatible with a PHP version being upgraded to.
 
-- see [here](https://xwp.co/tide-a-path-to-better-code-across-the-wordpress-ecosystem/) for an overview of what the tide project is
+See [here](https://xwp.co/tide-a-path-to-better-code-across-the-wordpress-ecosystem/) for an overview of what the tide project is
 
 ## Related Trac tickets/Other Resources
 
