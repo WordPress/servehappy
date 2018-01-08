@@ -83,3 +83,5 @@ See [here](https://xwp.co/tide-a-path-to-better-code-across-the-wordpress-ecosys
 This is a list of trac tickets that have some relation to the overall servehappy project:
 
 - https://core.trac.wordpress.org/ticket/33381
+- https://core.trac.wordpress.org/ticket/40934
+- https://core.trac.wordpress.org/ticket/41191
