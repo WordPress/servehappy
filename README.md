@@ -16,7 +16,7 @@ Beginning around mid 2017, there were a number of discussions initiated (in vari
 Once these goals have been reached, then it becomes possible to more practically begin discussions about:
 
 - Increasing the minimum PHP requirements of WordPress
-- Introducing more modern PHP practices/design patterns etc that require later PHP versions in WordPress php code design and structure.
+- Introducing more modern PHP practices/design patterns etc that require later PHP versions in WordPress PHP code design and structure.
 
 For clarity, its worth re-iterating here, that the immediate goal of the latest PHP initiatives (of which the _servehappy_ project is a part) is **not** to raise the minimum _requirements_ for PHP in WordPress core. The immediate goal is to put in place supporting structure and site owner education/resources etc so that we can more actively reduce the number of existing active WordPress sites on older PHP EOL versions.
 
@@ -53,7 +53,7 @@ If you want to suggest a new benefit or stat, please [create a new issue](https:
 
 ### Collection of various third-party articles and hosting resources
 
-See [the servehappy resources repository](https://github.com/WordPress/servehappy-resources) where there is an ongoing effort to collect a resource library of third-party articles, and php upgrade tutorials (including host specific tutorials) that can be utilized in other resources developed as a part of this initiative.
+See [the servehappy resources repository](https://github.com/WordPress/servehappy-resources) where there is an ongoing effort to collect a resource library of third-party articles, and PHP upgrade tutorials (including host specific tutorials) that can be utilized in other resources developed as a part of this initiative.
 
 ### Information page about PHP versions and updates.
 
@@ -74,7 +74,7 @@ The proposal is to allow plugins and themes to have a minimum PHP version requir
 
 ## Tide Project
 
-While not directly related to the servehappy initiative, the [Tide Project](https://make.wordpress.org/tide/) will indirectly support the various efforts in process.  It will particularly help with prividing feedback to users about what plugins/themes they have in use on their site that might not be compatible with a PHP version being upgraded to.
+While not directly related to the servehappy initiative, the [Tide Project](https://make.wordpress.org/tide/) will indirectly support the various efforts in process.  It will particularly help with providing feedback to users about what plugins/themes they have in use on their site that might not be compatible with a PHP version being upgraded to.
 
 See [here](https://xwp.co/tide-a-path-to-better-code-across-the-wordpress-ecosystem/) for an overview of what the tide project is
 
