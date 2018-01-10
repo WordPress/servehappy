@@ -72,9 +72,13 @@ This admin notice will serve as a portal into more substantive educational piece
 
 The proposal is to allow plugins and themes to have a minimum PHP version requirement. This will involve work done in WordPress core and the WordPress.org plugin repository to support this. More details can be tracked via the [trac ticket](https://core.trac.wordpress.org/ticket/40934)
 
+## PHP Compatibility Checker
+
+While not directly related to the servehappy initiative, the [PHP Compatibility Checker](https://wordpress.org/plugins/php-compatibility-checker/) is a free third-party plugin that allows site owners to check compatibility of their plugins and themes with specific PHP versions. In the current version of the [draft](https://github.com/WordPress/servehappy/blob/master/DRAFT.md), this plugin is recommended to be used as a prerequisite. The servehappy team has been collaborating with the developers of that plugin, to prepare it for that purpose.
+
 ## Tide Project
 
-While not directly related to the servehappy initiative, the [Tide Project](https://make.wordpress.org/tide/) will indirectly support the various efforts in process.  It will particularly help with providing feedback to users about what plugins/themes they have in use on their site that might not be compatible with a PHP version being upgraded to.
+Similar to the above plugin, the [Tide Project](https://make.wordpress.org/tide/) will indirectly support the various efforts in process. It will particularly help with providing feedback to users about what plugins/themes they have in use on their site that might not be compatible with a PHP version being upgraded to. It is currently unknown what an integration could look like, due to the early stage the service is in.
 
 See [here](https://xwp.co/tide-a-path-to-better-code-across-the-wordpress-ecosystem/) for an overview of what the tide project is
 
