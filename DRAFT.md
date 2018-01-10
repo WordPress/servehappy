@@ -46,7 +46,7 @@ In a perfect world, the answer would be “No”. However, the WordPress ecosyst
 WordPress as a content management system (CMS) is committed to backward compatibility. This means the main files that run your site will work as far back as PHP version 5.2. That said, we now recommend 7.2. Faster is better and this is why we’d love you to upgrade.
 
 > **Aside:**
-> “At Yoast we care about a lot of things, but two things in a very particular order: user happiness first, developer happiness second. A user is happy when he or she has a fast, easy to install, secure content management system like WordPress to build a site in. A developer is happy when he or she can use a modern language and modern tooling to build software with.” - [Joost de Valk](https://yoast.com/whipping-your-hosting-into-shape/)
+> “At Yoast we care about a lot of things, but two things in a very particular order: user happiness first, developer happiness second. A user is happy when he or she has a fast, easy to install, secure content management system like WordPress to build a site in. A developer is happy when he or she can use a modern language and modern tooling to build software with.” - [Joost de Valk - Whipping your hosting into shape](https://yoast.com/whipping-your-hosting-into-shape/)
 
 ## Before Upgrading PHP
 
