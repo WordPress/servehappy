@@ -54,7 +54,7 @@ WordPress as a content management system (CMS) is committed to backward compatib
 
 Before upgrading or making any major change you should create a backup of your site. This way you can easily restore your site should something go wrong. It happens. If you do not already have a backup solution in place, we recommend using [one of the free plugins](https://wordpress.org/plugins/search/backup/).
   
-Though we are encouraging you to upgrade your version of PHP, it’s good to remind you that a standard WordPress backup only includes the database, media files, and code. The PHP version is set on the server level (by your website host) and is not included in the backup. Meaning, it would not automatically restore if you do need to restore. If upgrading to a higher PHP version causes issues, you will need to ask your host to move you back to the previous version of PHP. Read more in the  “Troubleshooting” section below.
+Though we are encouraging you to upgrade your version of PHP, it’s good to remind you that a standard WordPress backup only includes the database, media files, and code. The PHP version is set on the server level (by your website host) and is not included in the backup. Meaning, it would not automatically restore if you do need to restore. If upgrading to a higher PHP version causes issues, you will need to ask your host to move you back to the previous version of PHP. Read more in the “FAQ” section below.
 
 ### Standard WordPress Updates
 
@@ -92,7 +92,7 @@ If you cannot find instructions for your specific host, the best thing you can d
 >
 > I want my website to be as performant and secure as possible with the latest version of PHP. For the server my WordPress site is hosted on, I want to ensure that is the case. If I am not already on the latest version of PHP, please let me know what steps I need to take to upgrade.
 
-## Troubleshooting
+## FAQ
 
 **// TODO.**
 
