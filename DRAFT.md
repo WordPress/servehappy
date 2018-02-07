@@ -61,7 +61,7 @@ Though we are encouraging you to upgrade your version of PHP, it’s good to rem
 Make sure all parts of your WordPress installation are updated. Update WordPress core and all of the plugins and themes that you are using. It is considered a best practice to update plugins and themes one at a time. This allows you to prepare yourself for any unexpected issue that could arise by pinpointing the problem plugin or theme.
 
 > **Aside:**
-> After you have successfully completed all of the available updates, it is useful to create and store a new backup in addition to the one from the first step, if your tooling allows for this. Most tools will let you create multiple backups that are either stored in the site’s file system or which you can download to your prefered storage solution such as your local computer or DropBox. This gives you a convenient rollback option to an intermediate step, so that you don't have to go through all updates again in case of a failure.
+> After you have successfully completed all of the available updates, it is useful to create and store a new backup in addition to the one from the first step, if your tooling allows for this. Most tools will let you create multiple backups that are either stored in the site’s file system or which you can download to your preferred storage solution such as your local computer or DropBox. This gives you a convenient rollback option to an intermediate step, so that you don't have to go through all updates again in case of a failure.
 
 ### PHP Compatibility Checker
 
