@@ -39,7 +39,7 @@ The following table gives a high level overview of all the various components co
 | ------------ | ---------- | ---------| -------------|
 Benefit/Stats Collection | - [issue tracker](https://github.com/WordPress/servehappy/issues)<br> - [ Benefits & Stats project board](https://github.com/WordPress/servehappy/projects/1) | ongoing | TBD |
 | Resource Collection | [the servehappy resources repository](https://github.com/WordPress/servehappy-resources) | ongoing | TBD |
-| Information Page on WP.org | - [Current Draft](https://github.com/WordPress/servehappy/blob/master/DRAFT.md) <br> - [trac ticket](https://meta.trac.wordpress.org/ticket/2996) | **active** | 1st Quarter 2018 |
+| Information Page on WP.org | - [trac ticket](https://meta.trac.wordpress.org/ticket/2996) <br> - [live page](https://wordpress.org/support/upgrade-php/) | **active** | 1st Quarter 2018 |
 | Admin Notice in Dashboard | - [Create browse happy type notice for PHP versions](https://core.trac.wordpress.org/ticket/41191) <br> - [Integrating the Servehappy Page with WordPress Core](https://github.com/WordPress/servehappy/blob/master/CORE-INTEGRATIONS.md) | **active** | 2nd Quarter 2018 |
 | Minimum PHP version API for plugins/themes in core | - [trac ticket](https://core.trac.wordpress.org/ticket/40934) | **active** | 3rd Quarter 2018 |
 
